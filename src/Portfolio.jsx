@@ -1,3 +1,4 @@
+import React from "react";
 export default function Portfolio() {
   return (
     <div className="p-6 font-sans bg-gray-100 text-gray-800">
